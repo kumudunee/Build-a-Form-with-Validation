@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            "Lets Code Together",
+            "bims on fire",
           ),
         ),
         body: Forms(),
